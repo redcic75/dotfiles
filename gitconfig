@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = cedric.louyot@gmail.com
+	name = Cedric Louyot
